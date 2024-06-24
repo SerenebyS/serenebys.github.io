@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sevgi Hasret Sevinc - Luxury Spa Essentials</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="layout.css">
+    <link rel="stylesheet" href="theme.css">
+</head>
+<body>
+    <div class="hero">
+        <h1>Sevgi Hasret Sevinc</h1>
+    </div>
+    <div class="container">
+        <div class="about">
+            <h2>About Us</h2>
+            <p>I am Sevgi Hasret Sevinc, a 20-year-old architecture student at KU Leuven. I have always struggled with skin acne and scars. Discovering these natural, homemade soaps from the Middle East was a revelation. The transformative results astonished me, particularly how an externally applied soap could provide an internal glow. This experience inspired me to share these exceptional soaps with the world, so everyone can benefit from their remarkable properties.</p>
+            <p>Additionally, my hair was extremely unhealthy and neglected, largely due to the materials of my head towel and the products I used. I found solutions in microfiber towels and the finest natural products to nourish my hair. At [Company Name], our mission is to revive the ancient methods of skin and hair care.</p>
+        </div>
+        <div class="main-content">
+            <h2>Our Spa Essentials</h2>
+            <p>Discover our range of luxurious, natural soaps and spa products designed to rejuvenate your skin and hair. Our products are crafted with the finest ingredients, inspired by ancient Middle Eastern traditions. Enjoy a pampering experience that brings out your natural beauty.</p>
+        </div>
+        <div class="cta">
+            <h2>Experience the Difference</h2>
+            <p>Join us in reviving the ancient methods of skincare and haircare. Try our products today and experience the transformative effects for yourself.</p>
+        </div>
+        <div class="sidebar">
+            <h2>Navigation</h2>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#products">Our Products</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+        <div class="contact">
+            <h2>Contact Us</h2>
+            <p>For inquiries, please reach out to us at:</p>
+            <p>Email: info@companyname.com</p>
+            <p>Phone: +123 456 7890</p>
+            <p>Follow us on social media:</p>
+            <p>
+                <a href="#">Facebook</a> |
+                <a href="#">Instagram</a> |
+                <a href="#">Twitter</a>
+            </p>
+        </div>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 [Company Name]. All rights reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+    </div>
+</body>
+</html>
